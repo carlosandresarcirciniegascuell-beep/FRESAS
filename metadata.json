@@ -1,0 +1,8 @@
+{
+  "name": "Sweet Berry Gourmet",
+  "description": "Boutique gourmet de fresas con crema artesanal con extractor de inventario inteligente por IA y verificación de clientes segura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
